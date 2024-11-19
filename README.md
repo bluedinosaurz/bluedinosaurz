@@ -1,1 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{bluedinosaurz}/count.svg)
+$${\color{lightgreen}View \space Counter}$$
+
+![Guest Counter](https://profile-counter.glitch.me/{bluedinosaurz}/count.svg)

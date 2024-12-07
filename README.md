@@ -1,3 +1,3 @@
-$${\color{lightgreen} Skibidi sigma view counter}$$
+$${\color{lightgreen} Views }$$
 
 ![Guest Counter](https://profile-counter.glitch.me/{bluedinosaurz}/count.svg)
